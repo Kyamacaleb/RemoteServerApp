@@ -1,0 +1,12 @@
+C:\Users\kyama\source\repos\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.csproj.AssemblyReference.cache
+C:\Users\kyama\source\repos\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\kyama\source\repos\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.csproj.CoreCompileInputs.cache
+C:\Users\kyama\source\repos\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe.config
+C:\Users\kyama\source\repos\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe
+C:\Users\kyama\source\repos\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.pdb
+C:\Users\kyama\source\repos\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.dll
+C:\Users\kyama\source\repos\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.pdb
+C:\Users\kyama\source\repos\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.dll.config
+C:\Users\kyama\source\repos\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.csproj.CopyComplete
+C:\Users\kyama\source\repos\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.exe
+C:\Users\kyama\source\repos\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.pdb
